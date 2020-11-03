@@ -1,7 +1,7 @@
-# How to get started with Machine Learning - Natural Language Processing 
+## How to get started with Machine Learning - Natural Language Processing 
 
 1. Learn to Code: Python
-  1.1 Python with Anaconda and Jupyiter
+  1.1 Python with Anaconda and Jupyiter <br />
     1.1.1 Python: https://www.learnpython.org/ 
     1.1.2 Anaconda tutorial: https://www.youtube.com/watch?v=YJC6ldI3hWk&feature=youtu.be 
     1.1.3 Jupyter tutorial: https://www.youtube.com/watch?v=HW29067qVWk
