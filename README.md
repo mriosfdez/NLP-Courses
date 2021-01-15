@@ -2,9 +2,9 @@
 
 ## 1. Learn to Code: Python <br />
   1.1 Python with Anaconda and Jupyiter <br />
-    1.1.1 Python: https://www.learnpython.org/ <br />
-    1.1.2 Anaconda tutorial: https://www.youtube.com/watch?v=YJC6ldI3hWk&feature=youtu.be <br />
-    1.1.3 Jupyter tutorial: https://www.youtube.com/watch?v=HW29067qVWk <br />
+      1.1.1 Python: https://www.learnpython.org/ <br />
+      1.1.2 Anaconda tutorial: https://www.youtube.com/watch?v=YJC6ldI3hWk&feature=youtu.be <br />
+      1.1.3 Jupyter tutorial: https://www.youtube.com/watch?v=HW29067qVWk <br />
   1.2 I would like to add: SQL and R <br />
 ## 2. Lear Data Analysis, manipulation and visualization <br />
   2.1 Pandas <br />
